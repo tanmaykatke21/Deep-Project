@@ -1,0 +1,69 @@
+.navi {
+    color: #EADBC8;
+    background-color: #DAC0A3;
+    
+}
+
+#p_description {
+    width: 75%;
+}
+
+table {
+    height: 100px;
+}
+
+.title {
+    font-family: 'Kalam', cursive;
+    margin-top: 150px;
+}
+
+.product_cards{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 50px 100px;
+    background-color: #EAD7BB;
+}
+
+.p_image {
+    width: 200px;
+    height: 300px;
+}
+.benefits {
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    padding: 40px 100px;
+
+}
+
+.working {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 50px 100px;
+    background-color: #EAD7BB;
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    padding: 40px 100px; 
+}
+
+.enquire {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 50px 100px;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    padding: 40px 100px; 
+}
+
+.footer {
+    padding: 50px 100px;
+    background-color: #EAD7BB;
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    padding: 40px 100px; 
+}
